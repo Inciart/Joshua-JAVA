@@ -1,8 +1,8 @@
 # Ejercicios de Java
 
-_programacion I, practicando Java - UFPSO
+*Proyecto académico* - Programación I, practicando Java - Ingenieria de sistemas - UFPSO
 
-## Contenido
+## Contenidos 
 
 Almacenamiento de datos y estructuras de control, estructuras repetitivas y modularización, arquitectura y paradigmas 
 
