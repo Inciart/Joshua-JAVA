@@ -1,6 +1,6 @@
 /*
- *3. An architect needs to find the area of a rectangular lot, 
-    check the formula with your classmates or on the internet.
+   3. An architect needs to find the area of a rectangular lot, 
+   check the formula with your classmates or on the internet.
  */
 package javalessons;
 import java.util.Scanner;
@@ -18,6 +18,7 @@ public class excecise3 {
        
        double total = base * altura;
        System.out.println("total: " + total );
+       scanner.close();
     }
     
 }

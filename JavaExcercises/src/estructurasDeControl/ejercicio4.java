@@ -18,6 +18,7 @@ public class ejercicio4 {
         }else{
             respuesta = "Es menor a 15 años de edad";
         }
+        System.out.println("El promedio de edad es: " + promedioEdad + " y " + respuesta);
     }
     
 }

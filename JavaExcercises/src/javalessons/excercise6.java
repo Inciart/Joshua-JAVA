@@ -19,5 +19,6 @@ public class excercise6 {
         
         double total = dollar * pesos;
         System.out.println("cambio total a pesos = " +  total + " $COP");
+        sc.close();
     }
 }

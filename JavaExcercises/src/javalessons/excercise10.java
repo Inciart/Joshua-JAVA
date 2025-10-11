@@ -23,6 +23,7 @@ public class excercise10 {
        double total = monedas * (pi * radio);
         
        System.out.println("total: " + total );
-    }
+         scanner.close();
+      }
     
 }

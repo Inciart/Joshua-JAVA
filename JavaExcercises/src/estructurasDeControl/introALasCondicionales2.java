@@ -20,5 +20,7 @@ public class introALasCondicionales2 {
         }else{
             respuesta = "No adivinaste";
         }
+        System.out.println(respuesta);
+        sc.close();
     }
 }

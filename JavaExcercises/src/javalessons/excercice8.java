@@ -19,5 +19,6 @@ public class excercice8 {
     
     int tabla = number * seven;
         System.out.println(seven + "*" + number + " = " + tabla);
+    sc.close();
     }
 }

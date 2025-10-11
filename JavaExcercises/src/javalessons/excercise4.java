@@ -34,5 +34,6 @@ public class excercise4 {
         double promedioEdad = (estudiante1 + estudiante2 + estudiante3 + estudiante4 + estudiante5 + estudiante6 + estudiante7)/7;
         
         System.out.println("promedioEdad = " + promedioEdad);
+        sc.close();
     }
 }

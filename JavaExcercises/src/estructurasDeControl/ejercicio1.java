@@ -3,7 +3,7 @@ package estructurasDeControl;
 import java.util.Scanner;
 
 public class ejercicio1 {
-     public static void main(String[] args) {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
         System.out.print("Ingrese calificacion del estudiante ");
@@ -12,6 +12,7 @@ public class ejercicio1 {
         
         if (grade < 0 || grade > 5) {
             System.out.println("Error: la calificacion es del 1 al 5");
+            scanner.close();
             return;
         }
         

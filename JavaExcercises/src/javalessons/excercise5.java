@@ -26,6 +26,6 @@ public class excercise5 {
        double treintaPorciento = examenFinal * 0.3;
        double notaTotal =  setentaPorciento + treintaPorciento;
         System.out.println("dias trabajados: " + notaTotal );
-
+        scanner.close();
      }
 }

@@ -1,0 +1,28 @@
+Product Name: White Rice 1kg
+Price without VAT: 4500.00 COP
+VAT applies: No
+Price with VAT: 4500.00 COP
+Stock: 150 units
+
+Guest Name: Maria Gonzalez
+Reserved Days: 3
+Daily Rate: 250000.00 COP
+Ocean View: Yes
+Ocean View Surcharge: 50000.00 COP per day
+Total Price: 900000.00 COP
+Rooms Booked: 1
+
+First Name: Juan Carlos
+Last Names: Perez Gomez
+Age: 30 years
+Height: 1.75 m
+Sex: M
+Married: Yes
+
+Title: The Analyst
+Author: John Katzenbach
+Publication Year: 2002
+Price: 65000.00 COP
+Format: Physical
+For Adults: Yes
+Rating: B (A-F scale)

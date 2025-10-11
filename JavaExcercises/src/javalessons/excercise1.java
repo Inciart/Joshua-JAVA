@@ -1,5 +1,7 @@
 
+package javalessons;
 import java.util.Scanner;
+
 
 public class excercise1 {
     public static void main(String[] args) {
@@ -18,6 +20,6 @@ public class excercise1 {
     Double total = diasTrabajados * pago;
     
         System.out.println("sueldo total = " + total + " COP");
-    
+    sc.close();
     }
 }

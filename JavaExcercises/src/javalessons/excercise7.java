@@ -17,6 +17,6 @@ public class excercise7 {
         double totalSinIva = precio * iva;
         
         System.out.println("totalSinIva = " + totalSinIva);
-        
+        sc.close();
     }
 }

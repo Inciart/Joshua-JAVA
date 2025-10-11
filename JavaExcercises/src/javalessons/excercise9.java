@@ -1,5 +1,5 @@
 /*
- 9. An architect needs to find the area of a triangular lot, 
+9. An architect needs to find the area of a triangular lot, 
 consult the formula with your colleagues or on the internet.
  */
 package javalessons;
@@ -18,6 +18,7 @@ public class excercise9 {
        
        double total = (base * altura)/2;
        System.out.println("total: " + total );
-    }
+    
+       scanner.close();}
     
 }
